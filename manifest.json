@@ -1,0 +1,21 @@
+{
+    "mod": {
+        "modid": "HuqaloV",
+        "version": "1.0.0",
+        "mcversion": "1.12.2",
+        "mixinurl": [
+            "me.sulinkq.mixins"
+        ],
+        "modurl": [
+            "net.ferderplays.HuqaloV"
+        ],
+        "loaderurl": [
+            "dev.v390n1ck.loader"
+        ],
+        "developers": [
+            "ferderplays",
+            "sulinkq",
+            "v390n1ck"
+        ]
+    }
+}
